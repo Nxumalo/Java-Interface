@@ -1,5 +1,5 @@
 # Java-User-Interface-Components
-The inforamtion in this Program teaches you how to create an applealing user interface for your java Applet.
+The inforamtion in this Program teaches you how to create an appealing user interface for your java Applet.
 Buttons
 Textfield
 TextAreas
